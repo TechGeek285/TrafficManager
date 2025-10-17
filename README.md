@@ -15,6 +15,6 @@ This resource is standalone from any external framework, permissions are done th
 Please find the source code in the main folder. Please ensure you follow the licence in **"LICENCE.md"**. To edit the source code you require Visual Studio with .NET desktop development tools installed.
 
 ## Feedback
-We appreciate feedback, bugs and suggestions related to TrafficManager and future plugins. We hope you enjoy using the resource and look forward to hearing from you!
+We would really appreciate feedback, bugs and suggestions related to TrafficManager and future plugins. We hope you enjoy using the resource and look forward to hearing from you!
 
 ![TrafficManager](https://i.imgur.com/bXWdXeW.png)
